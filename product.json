@@ -1,0 +1,44 @@
+{
+    "0": {
+      "id" : "0",
+      "name" : "Acer",
+      "price" : "220",
+      "img": "file:///media/ali/B430641F3063E6B8/work/A-shopping%20cart--BS/lap-1.jpg",
+      "featuer" : "HHD:500GB , RAM-DDR3 8GB , intel-inside coreI7, Full-HD display -- Made in China"
+    },
+    "1":{
+      "id" : "1",
+      "name" : "Acer-FV",
+      "price" : "350",
+      "img": "file:///media/ali/B430641F3063E6B8/work/A-shopping%20cart--BS/lap-3.jpg",
+      "featuer" : "HHD:500GB , RAM-DDR3 8GB , intel-inside coreI7, Full-HD display -- Made in China"
+    },
+    "2":{
+      "id" : "2",
+      "name" : "Dell-inspiron",
+      "price" : "380",
+      "img": "file:///media/ali/B430641F3063E6B8/work/A-shopping%20cart--BS/lap-2.jpg",
+      "featuer" : "HHD:500GB , RAM-DDR3 8GB , intel-inside coreI7, Full-HD display -- Made in China"
+    },
+    "3":{
+      "id" : "3",
+      "name" : "HP-FV00998",
+      "price" : "180",
+      "img": "file:///media/ali/B430641F3063E6B8/work/A-shopping%20cart--BS/monitor-1.jpg",
+      "featuer" : "HHD:500GB , RAM-DDR3 8GB , intel-inside coreI7, Full-HD display -- Made in China"
+    },
+    "4":{
+      "id" : "4",
+      "name" : "HP-EF0998",
+      "price" : "160",
+      "img": "file:///media/ali/B430641F3063E6B8/work/A-shopping%20cart--BS/lap-4.jpg",
+      "featuer" : "HHD:500GB , RAM-DDR3 8GB , intel-inside coreI7, Full-HD display -- Made in China"
+    },
+    "5":{
+      "id" : "5",
+      "name" : "Acer-FT",
+      "price" : "260",
+      "img": "file:///media/ali/B430641F3063E6B8/work/A-shopping%20cart--BS/pc-1.jpg",
+      "featuer" : "HHD:500GB , RAM-DDR3 8GB , intel-inside coreI7, Full-HD display -- Made in China"
+    }
+}
