@@ -46,17 +46,13 @@ var info;
               '</div></div>'
             );
           });
-
+          var cost = 0;
           Data.forEach((data)=> {
             data = JSON.parse(data);
-            var cost = 0;
-            for( var price in data){
-              cost += data.price;
-              console.log(cost);
-            }
+            cost += data.price
+          });
+           $(".totalcost").append(cost + " $");
 
-           //$(".totalcost")append(cost);
-         });
           $(".clear").click(function(){
             localStorage.removeItem("items");
             $(".inputResult").remove();
